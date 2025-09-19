@@ -22,7 +22,7 @@
 
 Gai AI BOT is an automated tool designed to task completion across multiple accounts. It provides seamless offers robust proxy support for enhanced security and reliability.
 
-**🔗 Get Started:** [Register on Gai AI](https://www.gaiai.io/register?code=63R39E)
+**🔗 Get Started:** [Register on Gai AI](https://www.gaiai.io/register?code=63R39E)  
 **🎁 Use My Code:** `63R39E`
 
 > **Important:** Connect new evm wallet.
